@@ -5,3 +5,5 @@ new change
 now polling only from jenkins
 aws security http closed, only my IP
 
+aws security http any
+github with git plugin
