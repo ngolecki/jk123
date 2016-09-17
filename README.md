@@ -2,6 +2,7 @@ Continuous Integration with Jenkins on Amazon EC2
 =================================================
 
 ## cool new plans
+Here the next steps.
 
 ## Initial Setup
 
