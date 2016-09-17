@@ -7,3 +7,6 @@ aws security http closed, only my IP
 
 aws security http any
 github with git plugin
+
+no polling in jenkins
+aws http any
