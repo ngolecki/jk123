@@ -4,6 +4,7 @@ Continuous Integration with Jenkins on Amazon EC2
 ## cool new plans
 Here the next steps.
 Trying to get a build.
+Change on branch.
 
 ## Initial Setup
 
