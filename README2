@@ -11,4 +11,5 @@ github with git plugin
 no polling in jenkins
 aws http any.
 build when a change is push on github
+change url /build
 
